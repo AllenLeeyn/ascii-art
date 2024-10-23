@@ -1,0 +1,2 @@
+Usage: go run . <something>
+EX: go run . "Hello There"
